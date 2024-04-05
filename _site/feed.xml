@@ -5,100 +5,183 @@
     <description>Modern Milsim</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Apr 2024 16:59:48 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Apr 2024 16:59:48 -0400</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2024 08:49:04 -0400</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2024 08:49:04 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator><item>
-        <title>Example Post Formatting</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+        <title>Importance of BCT</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;B&lt;/span&gt;asic Combat Training (BCT) is the cornerstone of military simulation (Milsim) gameplay, replicating the initial training undergone by real military recruits. It covers essential skills such as weapon handling, squad maneuvers, communication, and first aid. BCT is crucial in Milsims as it ensures players understand fundamental military principles, fostering teamwork and immersion in virtual combat scenarios.&lt;/p&gt;
 
-&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+&lt;h3 id=&quot;how-is-our-bct-program-different&quot;&gt;How is our BCT program different?&lt;/h3&gt;
+&lt;p&gt;Our BCT program at Shadow Division stands out from other Milsims by offering a unique blend of community engagement, mod diversity, and personalized guidance. Unlike traditional setups, our BCT sessions provide an excellent opportunity for players new and old to connect, meet fellow enthusiasts, and explore a plethora of available mods tailored to individual preferences. Moreover, participants benefit from private sessions designed to address queries about game mechanics, our operations, and gain deeper insights into our distinctive approach to gameplay and importantly our standard operation procedures (SOPs). Join us at Shadow Division for an immersive and informative BCT experience that sets the stage for a rewarding Milsim journey.&lt;/p&gt;
 
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+&lt;blockquote&gt;
+&quot;Each unit may have different SOPs. Thus, it&apos;s crucial to familiarize yourself with the specific procedures our unit will adhere to. Our tailored training sessions ensure that every member understands and can effectively implement these protocols in the field.&quot; 
+&lt;/blockquote&gt;
 
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+&lt;h2 id=&quot;what-will-you-learn-in-our-bct-program&quot;&gt;What will you learn in our BCT program?&lt;/h2&gt;
 
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+&lt;h4 id=&quot;objective-10-understand-and-utilize-proper-communication&quot;&gt;Objective 1.0: Understand and utilize proper communication.&lt;/h4&gt;
 
-&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Communication Procedures and Formations&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
-
-&lt;blockquote&gt;Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.&lt;/blockquote&gt;
-
-&lt;p&gt;Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;/p&gt;
-
-&lt;h2 id=&quot;unordered-list&quot;&gt;Unordered List&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
-  &lt;li&gt;Longer List Item
+  &lt;li&gt;&lt;strong&gt;Communication Procedures&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;Nested List Item&lt;/li&gt;
-      &lt;li&gt;Nested Item&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Green Comms:&lt;/em&gt; Open communication.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Yellow Comms:&lt;/em&gt; Restricted, subordinates request to speak.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Red Comms:&lt;/em&gt; Closed communication, silence below Captain.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Radio Terminology&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Break:&lt;/em&gt; Clear comms.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Over:&lt;/em&gt; End transmission.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Break:&lt;/em&gt; Pause mid-transmission.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Out:&lt;/em&gt; Close transmission.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;How-Copy:&lt;/em&gt; Confirm reception.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Copy:&lt;/em&gt; Confirm understanding.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Come In:&lt;/em&gt; Request response.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Standby:&lt;/em&gt; Request pause.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Say Again:&lt;/em&gt; Repeat transmission.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;ordered-list&quot;&gt;Ordered List&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
-  &lt;li&gt;Longer List Item
-    &lt;ol&gt;
-      &lt;li&gt;Nested OL Item&lt;/li&gt;
-      &lt;li&gt;Another Nested Item&lt;/li&gt;
-    &lt;/ol&gt;
+&lt;h4 id=&quot;objective-11-understand-and-utilize-proper-formations&quot;&gt;Objective 1.1: Understand and utilize proper formations.&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Patrol Formation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Visual:&lt;/em&gt; Square with four members at corners.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Benefits:&lt;/em&gt; All-round visibility, security, communication.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Use cases:&lt;/em&gt; Patrolling, securing, reconnaissance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;File Formation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Visual:&lt;/em&gt; Single line.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Benefits:&lt;/em&gt; Efficient in narrow spaces, minimizes profile.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Use cases:&lt;/em&gt; Passing obstacles, flanking, entering/exiting buildings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Line Formation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Visual:&lt;/em&gt; Shoulder-to-shoulder.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Benefits:&lt;/em&gt; Firepower concentration, quick movement.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Use cases:&lt;/em&gt; Assaults, open ground, covering flanks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Wedge Formation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Visual:&lt;/em&gt; V-shaped “arrowhead.”&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Benefits:&lt;/em&gt; Penetration, focused firepower.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Use cases:&lt;/em&gt; Breaking enemy lines, attacking, surprise attacks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;objective-20-learn-weapon-handling-and-usage&quot;&gt;Objective 2.0: Learn weapon handling and usage.&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Weapon Handling&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Commands:&lt;/em&gt; Raise/lower, low ready, inspect.&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;List Item&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Weapon Fire Discipline&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Concept:&lt;/em&gt; Manage ammo, effective range.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Steps:&lt;/em&gt; Controlled firing and burst patterns.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aiming and Accuracy&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Target:&lt;/em&gt; “Box” on wooden targets.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Steps:&lt;/em&gt; Controlled shots, wait for target to stand.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;objective-21-learn-grenade-handling&quot;&gt;Objective 2.1: Learn grenade handling.&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Smoke Grenades&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Purpose:&lt;/em&gt; Create a smoke wall.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Communication:&lt;/em&gt; Announce type and color.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fragmentation Grenades&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Purpose:&lt;/em&gt; Clear “Dead Zones.”&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Communication:&lt;/em&gt; Announce type.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Stun/Flash Bang Grenades&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Purpose:&lt;/em&gt; Distraction, disorientation.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Communication:&lt;/em&gt; Announce type.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Steps to Throw Any Grenade&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Hold grenade.&lt;/li&gt;
+  &lt;li&gt;Pull pin.&lt;/li&gt;
+  &lt;li&gt;Aim.&lt;/li&gt;
+  &lt;li&gt;Announce type loudly.&lt;/li&gt;
+  &lt;li&gt;Release, take cover.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;definition-list&quot;&gt;Definition List&lt;/h2&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Coffee&lt;/dt&gt;
-  &lt;dd&gt;Black hot drink&lt;/dd&gt;
-  &lt;dt&gt;Milk&lt;/dt&gt;
-  &lt;dd&gt;White cold drink&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;h4 id=&quot;objective-30-react-effectively-to-contact-apply-cta-and-sal&quot;&gt;Objective 3.0: React effectively to contact, apply CTA and SAL.&lt;/h4&gt;
 
-&lt;p&gt;Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CTA (Cover, Think, Act)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Steps:&lt;/em&gt; Seek cover, assess with SAL, respond decisively.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SAL (Size, Action, Location)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Steps:&lt;/em&gt; Estimate enemy force, determine action, identify location.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Clock System&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Use:&lt;/em&gt; Accurately communicate enemy position using a clock face.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Direction &amp;amp; Coordinates&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Use:&lt;/em&gt; On-screen compass for directional and coordinate communication.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
+&lt;h4 id=&quot;objective-40-learn-how-to-work-as-a-team-move-from-cover-to-cover-and-tactically-clear-enemies&quot;&gt;Objective 4.0: Learn how to work as a team, move from cover to cover, and tactically clear enemies.&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Syntax&lt;/th&gt;
-      &lt;th&gt;Description&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Header&lt;/td&gt;
-      &lt;td&gt;Title&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Paragraph&lt;/td&gt;
-      &lt;td&gt;Text&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Header&lt;/td&gt;
-      &lt;td&gt;Title&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Paragraph&lt;/td&gt;
-      &lt;td&gt;Text&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Buddy Bounding&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Definition:&lt;/em&gt; Involves 2 or more members “bounding” from cover to cover, closing in on an enemy position while covering each other through suppression or vigilant lookout. Ensure safe transition between covers.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Close Quarter Combat Introduction: Breach, Clear, Exfil&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Definition:&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Breach:&lt;/strong&gt; Gain entry into the target structure.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Clear:&lt;/strong&gt; Navigate through the structure, ensuring no enemy combatants remain.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Exfil:&lt;/strong&gt; Move to the structure exit, exit while forming a security perimeter. Use appropriate method to call for exfil (ping command, provide SITREP and CASREP, request exfil).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-</description><pubDate>Mon, 15 Dec 2014 00:00:00 -0500</pubDate>
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;B&lt;/span&gt;asic Combat Training (BCT) is the cornerstone of military simulation (Milsim) gameplay, replicating the initial training undergone by real military recruits. It covers essential skills such as weapon handling, squad maneuvers, communication, and first aid. BCT is crucial in Milsims as it ensures players understand fundamental military principles, fostering teamwork and immersion in virtual combat scenarios.&lt;/p&gt;
+</description><pubDate>Fri, 05 Apr 2024 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/blog/example-post-formatting/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/example-post-formatting/</guid></item><item>
         <title>Featured Image</title>

@@ -1,65 +1,129 @@
 ---
 layout: post
-title:  "Example Post Formatting"
-date:   2014-12-15
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+title:  "Importance of BCT"
+date:   2024-04-05
+description: Understand the importance of Basic Combat Training (BCT) and learn crucial skills that will ensure an immersive gaming experience.  
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="intro"><span class="dropcap">B</span>asic Combat Training (BCT) is the cornerstone of military simulation (Milsim) gameplay, replicating the initial training undergone by real military recruits. It covers essential skills such as weapon handling, squad maneuvers, communication, and first aid. BCT is crucial in Milsims as it ensures players understand fundamental military principles, fostering teamwork and immersion in virtual combat scenarios.</p>
 
-# Heading 1
+### How is our BCT program different? 
+Our BCT program at Shadow Division stands out from other Milsims by offering a unique blend of community engagement, mod diversity, and personalized guidance. Unlike traditional setups, our BCT sessions provide an excellent opportunity for players new and old to connect, meet fellow enthusiasts, and explore a plethora of available mods tailored to individual preferences. Moreover, participants benefit from private sessions designed to address queries about game mechanics, our operations, and gain deeper insights into our distinctive approach to gameplay and importantly our standard operation procedures (SOPs). Join us at Shadow Division for an immersive and informative BCT experience that sets the stage for a rewarding Milsim journey.
 
-## Heading 2
+<blockquote>
+"Each unit may have different SOPs. Thus, it's crucial to familiarize yourself with the specific procedures our unit will adhere to. Our tailored training sessions ensure that every member understands and can effectively implement these protocols in the field." 
+</blockquote>
 
-### Heading 3
+## What will you learn in our BCT program? 
 
-#### Heading 4
+#### Objective 1.0: Understand and utilize proper communication.
 
-##### Heading 5
+**Communication Procedures and Formations**
 
-###### Heading 6
+- **Communication Procedures**
+  - *Green Comms:* Open communication.
+  - *Yellow Comms:* Restricted, subordinates request to speak.
+  - *Red Comms:* Closed communication, silence below Captain.
 
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
+- **Radio Terminology**
+  - *Break:* Clear comms.
+  - *Over:* End transmission.
+  - *Break:* Pause mid-transmission.
+  - *Out:* Close transmission.
+  - *How-Copy:* Confirm reception.
+  - *Copy:* Confirm understanding.
+  - *Come In:* Request response.
+  - *Standby:* Request pause.
+  - *Say Again:* Repeat transmission.
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+#### Objective 1.1: Understand and utilize proper formations.
 
-## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
+**Patrol Formation**
 
-## Ordered List
-1. List Item
-2. Longer List Item
-    1. Nested OL Item
-    2. Another Nested Item
-3. List Item
+- *Visual:* Square with four members at corners.
+- *Benefits:* All-round visibility, security, communication.
+- *Use cases:* Patrolling, securing, reconnaissance.
 
-## Definition List
-<dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
-</dl>
+**File Formation**
 
-Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+- *Visual:* Single line.
+- *Benefits:* Efficient in narrow spaces, minimizes profile.
+- *Use cases:* Passing obstacles, flanking, entering/exiting buildings.
 
-## Table
+**Line Formation**
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
+- *Visual:* Shoulder-to-shoulder.
+- *Benefits:* Firepower concentration, quick movement.
+- *Use cases:* Assaults, open ground, covering flanks.
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+**Wedge Formation**
 
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
+- *Visual:* V-shaped "arrowhead."
+- *Benefits:* Penetration, focused firepower.
+- *Use cases:* Breaking enemy lines, attacking, surprise attacks.
 
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+#### Objective 2.0: Learn weapon handling and usage.
 
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+- **Weapon Handling**
+  - *Commands:* Raise/lower, low ready, inspect.
+
+- **Weapon Fire Discipline**
+  - *Concept:* Manage ammo, effective range.
+  - *Steps:* Controlled firing and burst patterns.
+
+- **Aiming and Accuracy**
+  - *Target:* "Box" on wooden targets.
+  - *Steps:* Controlled shots, wait for target to stand.
+
+#### Objective 2.1: Learn grenade handling.
+
+**Smoke Grenades**
+
+- *Purpose:* Create a smoke wall.
+- *Communication:* Announce type and color.
+
+**Fragmentation Grenades**
+
+- *Purpose:* Clear "Dead Zones."
+- *Communication:* Announce type.
+
+**Stun/Flash Bang Grenades**
+
+- *Purpose:* Distraction, disorientation.
+- *Communication:* Announce type.
+
+**Steps to Throw Any Grenade**
+1. Hold grenade.
+2. Pull pin.
+3. Aim.
+4. Announce type loudly.
+5. Release, take cover.
+
+
+#### Objective 3.0: React effectively to contact, apply CTA and SAL.
+
+- **CTA (Cover, Think, Act)**
+  - *Steps:* Seek cover, assess with SAL, respond decisively.
+
+- **SAL (Size, Action, Location)**
+  - *Steps:* Estimate enemy force, determine action, identify location.
+
+- **Clock System**
+  - *Use:* Accurately communicate enemy position using a clock face.
+
+- **Direction & Coordinates**
+  - *Use:* On-screen compass for directional and coordinate communication.
+
+#### Objective 4.0: Learn how to work as a team, move from cover to cover, and tactically clear enemies. 
+
+**Buddy Bounding**
+
+- *Definition:* Involves 2 or more members "bounding" from cover to cover, closing in on an enemy position while covering each other through suppression or vigilant lookout. Ensure safe transition between covers.
+
+**Close Quarter Combat Introduction: Breach, Clear, Exfil**
+
+- *Definition:*
+  - **Breach:** Gain entry into the target structure.
+  - **Clear:** Navigate through the structure, ensuring no enemy combatants remain.
+  - **Exfil:** Move to the structure exit, exit while forming a security perimeter. Use appropriate method to call for exfil (ping command, provide SITREP and CASREP, request exfil).
+

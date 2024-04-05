@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Situational Awarness and Comms"
+date:   2024-01-01
+description: Understand the importance of Situational Awarness (SA)  and learn crucial skills that will ensure you work together as a cohesive team with minimal communication.  
+---
+
+<p class="intro"><span class="dropcap">C</span>ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.</p>
+
+
+**Trainers:** Ensure comprehension before advancing. Share SOP with participants for pre-training study.
+
+### Game Master
+
+Set up the following stations near the main base with adequate spacing for transitioning between locations.
+
+1. Training Area with Various Terrain Features.
+2. Observation Deck for Trainers.
+3. Communication Equipment and Maps for Navigation.
+4. Classroom Area for Instruction and Debriefing.
+
+### Team Communication and Direction Awareness Training
+
+#### Objective 1.0
+
+Teach participants effective team communication methods and direction awareness techniques to ensure cohesive movement and situational awareness.
+
+> **Trainers:** Emphasize the importance of sticking together and understanding the location of each team member without having to look.
+
+### Communication Methods
+
+#### 1. Direction Callouts
+
+- **Clock Method:** Use clock directions (e.g., 12 o'clock, 3 o'clock) to indicate the location of threats or team members.
+- **Example Callouts:** "Alpha-1 covering our 9 o'clock," "Bravo-2 moving to our 6 o'clock," "Charlie-3 providing overwatch at our 12 o'clock."
+
+#### 2. Team Identification
+
+- **Callsigns:** Assign unique callsigns to each team member for easy identification during communication.
+- **Example:** "Alpha-Team, this is Bravo-Team, over."
+
+#### 3. Confirmation and Acknowledgment
+
+- **Repeat Back:** Ensure messages are received and understood by having recipients repeat back important information.
+- **Acknowledgment:** Require acknowledgment from team members to confirm receipt of orders or information.
+
+### Direction Awareness Techniques
+
+#### 1. Emphasize Team Cohesion  
+
+- **Visual Formation:** Instruct participants to visualize their team as a cohesive unit, similar to the ancient Greek phalanx formation, but with modern era formations (e.g., line, column, wedge, echelon right/left). 
+- **Responsibilities:** Assign specific directions for each team member to cover, ensuring 360-degree security.
+
+#### 2. Continuous Communication
+
+- **Constant Updates:** Encourage continuous **PROXY** communication between team members to maintain awareness of their positions and movements.
+- **Example:** "Bravo-Team, Alpha-Team is shifting left, our 9-o'clock, to cover our left flank."
+
+### Scenario-Based Training
+
+#### 1. Urban Patrol Scenario
+
+- **Objective:** Navigate through an urban environment while maintaining formation and communication.
+- **Challenges:** Obstacles, potential threats, and changing terrain conditions.
+- **Emphasis:** Use direction callouts and maintain the called formation throughout the patrol.
+
+#### 2. Reconnaissance Mission
+
+- **Objective:** Conduct reconnaissance of a designated area while avoiding detection.
+- **Challenges:** Concealment, stealth movement, and potential enemy presence.
+- **Emphasis:** Coordinate movements silently and use directional callouts sparingly to avoid alerting nearby threats.
+
+#### 3. Ambush Response Drill
+
+- **Objective:** Respond to a simulated ambush situation while maintaining formation and communication.
+- **Challenges:** Surprise attack, hostile fire, and disorientation.
+- **Emphasis:** React quickly, establish a defensive perimeter, and use direction callouts to coordinate counterattacks.
+
+### Debrief and Assessment
+
+#### 1. Performance Review
+
+- **Individual Assessment:** Evaluate each participant's performance in communication and direction awareness during scenario-based training.
+- **Feedback:** Provide constructive feedback on strengths and areas for improvement.
+
+#### 2. Team Cohesion
+
+- **Evaluation:** Assess the team's ability to stick together, maintain formation, and effectively communicate throughout the training scenarios.
+- **Emphasis:** Highlight the importance of cohesion in achieving mission success and mitigating risks.
+
+#### 3. Certification
+
+- **Criteria:** Review the criteria for team communication and direction awareness certification, emphasizing proficiency in using communication methods and maintaining formation.
+  - **Expert:** Demonstrates excellent communication skills and maintains cohesion under pressure.
+  - **Proficient:** Uses communication methods effectively but may require refinement in maintaining formation.
+  - **Basic:** Shows understanding of communication principles but needs improvement in applying them consistently during training scenarios.
+
+**Trainers:** Conclude the training with a debrief session, allowing participants to discuss their experiences, ask questions, and reinforce key concepts.

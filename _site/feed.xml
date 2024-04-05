@@ -5,8 +5,8 @@
     <description>Modern Milsim</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Apr 2024 08:49:04 -0400</pubDate>
-    <lastBuildDate>Fri, 05 Apr 2024 08:49:04 -0400</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2024 11:21:18 -0400</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2024 11:21:18 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator><item>
         <title>Importance of BCT</title>
         <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;B&lt;/span&gt;asic Combat Training (BCT) is the cornerstone of military simulation (Milsim) gameplay, replicating the initial training undergone by real military recruits. It covers essential skills such as weapon handling, squad maneuvers, communication, and first aid. BCT is crucial in Milsims as it ensures players understand fundamental military principles, fostering teamwork and immersion in virtual combat scenarios.&lt;/p&gt;
@@ -182,95 +182,878 @@
 
 </description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;B&lt;/span&gt;asic Combat Training (BCT) is the cornerstone of military simulation (Milsim) gameplay, replicating the initial training undergone by real military recruits. It covers essential skills such as weapon handling, squad maneuvers, communication, and first aid. BCT is crucial in Milsims as it ensures players understand fundamental military principles, fostering teamwork and immersion in virtual combat scenarios.&lt;/p&gt;
 </description><pubDate>Fri, 05 Apr 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/example-post-formatting/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/example-post-formatting/</guid></item><item>
-        <title>Featured Image</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+        <link>http://localhost:4000/blog/importance-of-bct/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/importance-of-bct/</guid></item><item>
+        <title>Situational Awarness and Comms</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.&lt;/p&gt;
 
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share SOP with participants for pre-training study.&lt;/p&gt;
 
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
+&lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
 
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
+&lt;p&gt;Set up the following stations near the main base with adequate spacing for transitioning between locations.&lt;/p&gt;
 
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Training Area with Various Terrain Features.&lt;/li&gt;
+  &lt;li&gt;Observation Deck for Trainers.&lt;/li&gt;
+  &lt;li&gt;Communication Equipment and Maps for Navigation.&lt;/li&gt;
+  &lt;li&gt;Classroom Area for Instruction and Debriefing.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description><pubDate>Sun, 14 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/featured-image/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/featured-image/</guid></item><item>
-        <title>Post With A Code Snippet</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Y&lt;/span&gt;ou&apos;ll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes! To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+&lt;h3 id=&quot;team-communication-and-direction-awareness-training&quot;&gt;Team Communication and Direction Awareness Training&lt;/h3&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
 
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Y&lt;/span&gt;ou&apos;ll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes! To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-</description><pubDate>Sat, 13 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/code-snippet/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/code-snippet/</guid></item><item>
-        <title>Figure With A Caption</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+&lt;p&gt;Teach participants effective team communication methods and direction awareness techniques to ensure cohesive movement and situational awareness.&lt;/p&gt;
 
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Emphasize the importance of sticking together and understanding the location of each team member without having to look.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;figure&gt;
-	&lt;img src=&quot;/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt; 
-	&lt;figcaption&gt;Fig1. - This is an example figcaption&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/touring.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; 
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Fig1. - This is an example figcaption&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
+&lt;h3 id=&quot;communication-methods&quot;&gt;Communication Methods&lt;/h3&gt;
 
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
+&lt;h4 id=&quot;1-direction-callouts&quot;&gt;1. Direction Callouts&lt;/h4&gt;
 
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Clock Method:&lt;/strong&gt; Use clock directions (e.g., 12 o’clock, 3 o’clock) to indicate the location of threats or team members.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Example Callouts:&lt;/strong&gt; “Alpha-1 covering our 9 o’clock,” “Bravo-2 moving to our 6 o’clock,” “Charlie-3 providing overwatch at our 12 o’clock.”&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description><pubDate>Fri, 12 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/figure-with-caption/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/figure-with-caption/</guid></item><item>
-        <title>Image in Post</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+&lt;h4 id=&quot;2-team-identification&quot;&gt;2. Team Identification&lt;/h4&gt;
 
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Callsigns:&lt;/strong&gt; Assign unique callsigns to each team member for easy identification during communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; “Alpha-Team, this is Bravo-Team, over.”&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;3-confirmation-and-acknowledgment&quot;&gt;3. Confirmation and Acknowledgment&lt;/h4&gt;
 
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Repeat Back:&lt;/strong&gt; Ensure messages are received and understood by having recipients repeat back important information.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Acknowledgment:&lt;/strong&gt; Require acknowledgment from team members to confirm receipt of orders or information.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
+&lt;h3 id=&quot;direction-awareness-techniques&quot;&gt;Direction Awareness Techniques&lt;/h3&gt;
 
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
+&lt;h4 id=&quot;1-emphasize-team-cohesion&quot;&gt;1. Emphasize Team Cohesion&lt;/h4&gt;
 
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description><pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/image-in-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/image-in-post/</guid></item><item>
-        <title>Test Post</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visual Formation:&lt;/strong&gt; Instruct participants to visualize their team as a cohesive unit, similar to the ancient Greek phalanx formation, but with modern era formations (e.g., line, column, wedge, echelon right/left).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt; Assign specific directions for each team member to cover, ensuring 360-degree security.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
+&lt;h4 id=&quot;2-continuous-communication&quot;&gt;2. Continuous Communication&lt;/h4&gt;
 
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Constant Updates:&lt;/strong&gt; Encourage continuous &lt;strong&gt;PROXY&lt;/strong&gt; communication between team members to maintain awareness of their positions and movements.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; “Bravo-Team, Alpha-Team is shifting left, our 9-o’clock, to cover our left flank.”&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
+&lt;h3 id=&quot;scenario-based-training&quot;&gt;Scenario-Based Training&lt;/h3&gt;
 
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
+&lt;h4 id=&quot;1-urban-patrol-scenario&quot;&gt;1. Urban Patrol Scenario&lt;/h4&gt;
 
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description><pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/test-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/test-post/</guid></item></channel>
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Navigate through an urban environment while maintaining formation and communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Obstacles, potential threats, and changing terrain conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Use direction callouts and maintain the called formation throughout the patrol.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-reconnaissance-mission&quot;&gt;2. Reconnaissance Mission&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Conduct reconnaissance of a designated area while avoiding detection.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Concealment, stealth movement, and potential enemy presence.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Coordinate movements silently and use directional callouts sparingly to avoid alerting nearby threats.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-ambush-response-drill&quot;&gt;3. Ambush Response Drill&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Respond to a simulated ambush situation while maintaining formation and communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Surprise attack, hostile fire, and disorientation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; React quickly, establish a defensive perimeter, and use direction callouts to coordinate counterattacks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;debrief-and-assessment&quot;&gt;Debrief and Assessment&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-performance-review&quot;&gt;1. Performance Review&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Individual Assessment:&lt;/strong&gt; Evaluate each participant’s performance in communication and direction awareness during scenario-based training.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Feedback:&lt;/strong&gt; Provide constructive feedback on strengths and areas for improvement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-team-cohesion&quot;&gt;2. Team Cohesion&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt; Assess the team’s ability to stick together, maintain formation, and effectively communicate throughout the training scenarios.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Highlight the importance of cohesion in achieving mission success and mitigating risks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-certification&quot;&gt;3. Certification&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Criteria:&lt;/strong&gt; Review the criteria for team communication and direction awareness certification, emphasizing proficiency in using communication methods and maintaining formation.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Expert:&lt;/strong&gt; Demonstrates excellent communication skills and maintains cohesion under pressure.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Proficient:&lt;/strong&gt; Uses communication methods effectively but may require refinement in maintaining formation.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Basic:&lt;/strong&gt; Shows understanding of communication principles but needs improvement in applying them consistently during training scenarios.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conclude the training with a debrief session, allowing participants to discuss their experiences, ask questions, and reinforce key concepts.&lt;/p&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.&lt;/p&gt;
+</description><pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/SA-COMS/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/SA-COMS/</guid></item><item>
+        <title>BCT</title>
+        <description>&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share &lt;a href=&quot;https://beardedeldo.github.io/shadow/blog/example-post-formatting/&quot;&gt;Importance of BCT&lt;/a&gt; with recruits for pre-BCT study.&lt;/p&gt;
+
+&lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
+
+&lt;p&gt;Set up the following stations near the main base with adequate spacing for jogging from location to location.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Shooting Range.&lt;/li&gt;
+  &lt;li&gt;Sandbag covers with down-range targets.&lt;/li&gt;
+  &lt;li&gt;Four bunkers at 12, 9, 6, and 3 o’clock positions.&lt;/li&gt;
+  &lt;li&gt;One bunker with 4 sandbag covers, 20-40m south.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;communication-and-formations&quot;&gt;Communication and Formations&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
+
+&lt;p&gt;Understand and utilize proper communication.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cover concepts, practice proximity and radio frequency communication, confirm understanding at main base (away from spawn).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;communication-procedures-and-formations&quot;&gt;Communication Procedures and Formations&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-communication-procedures&quot;&gt;1. Communication Procedures&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Green Comms:&lt;/strong&gt; Open communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yellow Comms:&lt;/strong&gt; Restricted, subordinates request to speak.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Red Comms:&lt;/strong&gt; Closed communication, silence below Captain.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-radio-terminology&quot;&gt;2. Radio Terminology&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Break:&lt;/strong&gt; Clear comms.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Over:&lt;/strong&gt; End transmission.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Break:&lt;/strong&gt; Pause mid-transmission.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Out:&lt;/strong&gt; Close transmission.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How-Copy:&lt;/strong&gt; Confirm reception.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Copy:&lt;/strong&gt; Confirm understanding.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Come In:&lt;/strong&gt; Request response.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Standby:&lt;/strong&gt; Request pause.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Say Again:&lt;/strong&gt; Repeat transmission.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;objective-11&quot;&gt;Objective 1.1&lt;/h4&gt;
+
+&lt;p&gt;Understand and utilize proper formations.&lt;/p&gt;
+
+&lt;h4 id=&quot;3-patrol-formation&quot;&gt;3. Patrol Formation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visual:&lt;/strong&gt; Square with four members at corners.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; All-round visibility, security, communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use cases:&lt;/strong&gt; Patrolling, securing, reconnaissance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;4-file-formation&quot;&gt;4. File Formation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visual:&lt;/strong&gt; Single line.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; Efficient in narrow spaces, minimizes profile.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use cases:&lt;/strong&gt; Passing obstacles, flanking, entering/exiting buildings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;5-line-formation&quot;&gt;5. Line Formation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visual:&lt;/strong&gt; Shoulder-to-shoulder.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; Firepower concentration, quick movement.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use cases:&lt;/strong&gt; Assaults, open ground, covering flanks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;6-wedge-formation&quot;&gt;6. Wedge Formation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visual:&lt;/strong&gt; V-shaped “arrowhead.”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; Penetration, focused firepower.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use cases:&lt;/strong&gt; Breaking enemy lines, attacking, surprise attacks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Confirm understanding and proceed to jogging to the shooting range for practical exercises.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Form teams, assign roles.&lt;/li&gt;
+  &lt;li&gt;Trainer as Team Lead, call formations.&lt;/li&gt;
+  &lt;li&gt;Use radio terminology during the jog.&lt;/li&gt;
+  &lt;li&gt;Test knowledge with sudden stops and orders.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;weapon-discipline-smokes-grenades-flash-bangs&quot;&gt;Weapon Discipline, Smokes, Grenades, Flash Bangs&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Demonstrate concepts at the shooting range.&lt;/p&gt;
+
+&lt;h4 id=&quot;objective-20&quot;&gt;Objective 2.0&lt;/h4&gt;
+
+&lt;p&gt;Learn weapon handling and usage.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-weapon-handling&quot;&gt;1. Weapon Handling&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Commands:&lt;/strong&gt; Raise/lower, low ready, inspect.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-weapon-fire-discipline&quot;&gt;2. Weapon Fire Discipline&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Concept:&lt;/strong&gt; Manage ammo, effective range.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Steps:&lt;/strong&gt; Controlled firing and burst patterns.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-aiming-and-accuracy&quot;&gt;3. Aiming and Accuracy&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Target:&lt;/strong&gt; “Box” on wooden targets.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Steps:&lt;/strong&gt; Controlled shots, wait for target to stand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Test understanding, then proceed to next area with sandbags and targets.&lt;/p&gt;
+
+&lt;h4 id=&quot;objective-21&quot;&gt;Objective 2.1&lt;/h4&gt;
+
+&lt;p&gt;Learn grenade handling.&lt;/p&gt;
+
+&lt;h4 id=&quot;smoke-grenades&quot;&gt;Smoke Grenades&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Create a smoke wall.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Announce type and color.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;fragmentation-grenades&quot;&gt;Fragmentation Grenades&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Clear “Dead Zones.”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Announce type.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;stunflash-bang-grenades&quot;&gt;Stun/Flash Bang Grenades&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Distraction, disorientation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Announce type.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;steps-to-throw-any-grenade&quot;&gt;Steps to Throw Any Grenade&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Hold grenade.&lt;/li&gt;
+  &lt;li&gt;Pull pin.&lt;/li&gt;
+  &lt;li&gt;Aim.&lt;/li&gt;
+  &lt;li&gt;Announce type loudly.&lt;/li&gt;
+  &lt;li&gt;Release, take cover.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Confirm understanding, then proceed to the next section for react-to-contact and clock test.&lt;/p&gt;
+
+&lt;h3 id=&quot;clock-system-and-react-to-contact&quot;&gt;Clock System and React to Contact&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conduct exercises at the four bunkers location.&lt;/p&gt;
+
+&lt;h4 id=&quot;objective-30&quot;&gt;Objective 3.0&lt;/h4&gt;
+
+&lt;p&gt;React effectively to contact, apply CTA and SAL.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-cta-cover-think-act&quot;&gt;1. CTA (Cover, Think, Act)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Steps:&lt;/strong&gt; Seek cover, assess with SAL, respond decisively.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-sal-size-action-location&quot;&gt;2. SAL (Size, Action, Location)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Steps:&lt;/strong&gt; Estimate enemy force, determine action, identify location.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-clock-system&quot;&gt;3. Clock System&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Use:&lt;/strong&gt; Accurately communicate enemy position using a clock face.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;4-direction--coordinates&quot;&gt;4. Direction &amp;amp; Coordinates&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Use:&lt;/strong&gt; On-screen compass for directional and coordinate communication.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conduct live fire exercise, grading recruits based on BCT knowledge.&lt;/p&gt;
+
+&lt;h3 id=&quot;final-exam-buddy-bounding-and-close-quarter-combat-cqc&quot;&gt;Final Exam: Buddy Bounding and Close Quarter Combat (CQC)&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-40&quot;&gt;Objective 4.0&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn how to work as a team, move from cover to cover, and tactically clear enemies. 
+&lt;strong&gt;Trainers:&lt;/strong&gt; This is a live fire excercise and you need to observe how well recruits have learned the previous concepts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;buddy-bounding&quot;&gt;Buddy Bounding&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Definition:&lt;/strong&gt; Buddy Bounding involves 2 or more members “bounding” from cover to cover, closing in on an enemy position while covering each other through suppression or vigilant lookout. Ensure safe transition between covers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“One man covering.”&lt;/li&gt;
+  &lt;li&gt;“Two men moving.”&lt;/li&gt;
+  &lt;li&gt;“Two men set and covering.”&lt;/li&gt;
+  &lt;li&gt;“One man moving.”&lt;/li&gt;
+  &lt;li&gt;“One man set.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; allow recruits to use smoke grenades (optional).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; confirm Buddy Bounding concepts are well understood and then proceed to last location.&lt;/p&gt;
+
+&lt;h4 id=&quot;close-quarter-combat-introduction-breach-clear-exfil&quot;&gt;Close Quarter Combat Introduction: Breach, Clear, Exfil&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Definition:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Breach:&lt;/strong&gt; Gain entry into the target structure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Clear:&lt;/strong&gt; Navigate through the structure, ensuring no enemy combatants remain.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exfil:&lt;/strong&gt; Move to the structure exit, exit while forming a security perimeter. Use appropriate method to call for exfil (ping command, provide SITREP and CASREP, request exfil).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make sure teams line up and confirm ready before breaching. “Team ready to breach? Four ready. Three ready. Two ready. Team ready to breach. One man breaching.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; This phase integrates teamwork, movement, and tactical clearing. Emphasize effective communication and coordinated actions. Ensure recruits understand and can execute these concepts in simulated scenarios.&lt;/p&gt;
+</description><description>&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share &lt;a href=&quot;https://beardedeldo.github.io/shadow/blog/example-post-formatting/&quot;&gt;Importance of BCT&lt;/a&gt; with recruits for pre-BCT study.&lt;/p&gt;
+</description><pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/BCT/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/BCT/</guid></item><item>
+        <title>CQC</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;lose Quarters Combat (CQC) training focuses on mastering techniques for engaging enemies at close range, emphasizing swift and decisive action in confined spaces. It covers skills like room clearing, weapon retention, and hand-to-hand combat, crucial for dominating in tight urban environments or enclosed structures. CQC proficiency enhances individual lethality and team coordination, ensuring readiness for intense combat encounters where split-second decisions can determine survival. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share SOPs with participants for pre-training study.&lt;/p&gt;
+
+&lt;h4 id=&quot;game-master&quot;&gt;Game Master&lt;/h4&gt;
+
+&lt;p&gt;Set up the following stations near the main base with adequate spacing for transitioning between locations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CQC Training Facility with Various Room Configurations.&lt;/li&gt;
+  &lt;li&gt;Observation Deck for Trainers.&lt;/li&gt;
+  &lt;li&gt;Weapons Cache with Close Combat Weapons and Ammunition.&lt;/li&gt;
+  &lt;li&gt;Classroom Area for Instruction and Debriefing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
+
+&lt;p&gt;Teach participants the deliberate entry method for conducting close quarters combat operations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Provide a detailed overview of the &lt;strong&gt;deliberate entry method&lt;/strong&gt;, emphasizing safety and effectiveness.&lt;/p&gt;
+
+&lt;h3 id=&quot;deliberate-entry-method&quot;&gt;Deliberate Entry Method&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-planning-and-rehearsal&quot;&gt;1. Planning and Rehearsal&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Intelligence Gathering:&lt;/strong&gt; Assess available intelligence on the target structure and potential threats.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mission Briefing:&lt;/strong&gt; Conduct a thorough mission briefing with all participants, including roles and responsibilities (e.g., RFL, TL, SAW, GL).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rehearsal:&lt;/strong&gt; Practice the deliberate entry method through exercises and walkthroughs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-execution&quot;&gt;2. Execution&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dynamic Breach:&lt;/strong&gt; Execute a dynamic breach using explosive if necessary (e.g., blowing door open).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Immediate Action Drills:&lt;/strong&gt; Perform immediate action drills upon breaching to swiftly secure the entry point and establish control of the structure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Room Clearing:&lt;/strong&gt; Clear each room methodically, ensuring thorough coverage and minimizing the risk of surprise threats.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Guide participants through practical exercises to reinforce the deliberate entry method and its application in various scenarios.&lt;/p&gt;
+
+&lt;h3 id=&quot;cqc-training---clearing-via-grenades&quot;&gt;CQC Training - Clearing via Grenades&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-20&quot;&gt;Objective 2.0&lt;/h4&gt;
+
+&lt;p&gt;Train participants on clearing structures using stun and explosive grenades when civilians are not present.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Emphasize the importance of proper grenade usage and coordination in close quarters environments.&lt;/p&gt;
+
+&lt;h3 id=&quot;clearing-via-grenades-procedure&quot;&gt;Clearing via Grenades Procedure&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-assessment&quot;&gt;1. Assessment&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Threat Analysis:&lt;/strong&gt; Assess the threat level and composition within the target structure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Civilians Present:&lt;/strong&gt; Ensure there are no civilians present within the structure before employing grenades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-grenade-employment&quot;&gt;2. Grenade Employment&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Selection:&lt;/strong&gt; Choose appropriate grenades based on the target and threat assessment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Placement:&lt;/strong&gt; Deploy grenades through doors, windows, or openings to neutralize threats and create entry points.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-entry-and-clearance&quot;&gt;3. Entry and Clearance&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Explosive Breach:&lt;/strong&gt; Initiate the entry following grenade detonation, utilizing the element of surprise.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Room Clearance:&lt;/strong&gt; Conduct room-by-room clearance, exploiting the shock and disorientation caused by the grenades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Supervise participants during grenade employment exercises, emphasizing safety and proper techniques.&lt;/p&gt;
+
+&lt;h3 id=&quot;cqc-training-debrief&quot;&gt;CQC Training Debrief&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-30&quot;&gt;Objective 3.0&lt;/h4&gt;
+
+&lt;p&gt;Review participants’ performance, provide feedback, and address areas for improvement.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-performance-review&quot;&gt;1. Performance Review&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Individual Assessment:&lt;/strong&gt; Provide feedback to each participant based on their performance during the deliberate entry and grenade clearing exercises.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Highlight Strengths:&lt;/strong&gt; Recognize areas where participants demonstrated proficiency and effectiveness.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-areas-for-improvement&quot;&gt;2. Areas for Improvement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Identify Weaknesses:&lt;/strong&gt; Address specific areas where participants may need improvement in executing the deliberate entry method and clearing via grenades.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recommendations:&lt;/strong&gt; Offer recommendations for additional training or drills to enhance participants’ skills in close quarters combat.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-certification&quot;&gt;3. Certification&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Criteria:&lt;/strong&gt; Review the criteria for CQC certification and inform participants of the requirements for successful certification.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Expert:&lt;/strong&gt; Demonstrate proficiency in executing the deliberate entry method and clearing via grenades with high accuracy and efficiency.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Proficient:&lt;/strong&gt; Execute the deliberate entry method and clearing via grenades with satisfactory accuracy and effectiveness.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Basic:&lt;/strong&gt; Show a basic understanding of the deliberate entry method and clearing via grenades but require further practice and refinement.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Next Steps:&lt;/strong&gt; Provide guidance on next steps for participants to continue honing their skills in close quarters combat within their unit.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conclude the CQC training with a debrief session, allowing participants to ask questions and clarify any concerns.&lt;/p&gt;
+
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;lose Quarters Combat (CQC) training focuses on mastering techniques for engaging enemies at close range, emphasizing swift and decisive action in confined spaces. It covers skills like room clearing, weapon retention, and hand-to-hand combat, crucial for dominating in tight urban environments or enclosed structures. CQC proficiency enhances individual lethality and team coordination, ensuring readiness for intense combat encounters where split-second decisions can determine survival. &lt;/p&gt;
+</description><pubDate>Fri, 01 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/CQC/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/CQC/</guid></item><item>
+        <title>SAW</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;S&lt;/span&gt; Squad and Automatic Weapon (SAW) training is pivotal for replicating the role of providing covering fire and controlling the battlefield. SAW training equips players with the skills to effectively deploy automatic weapons, maintain suppressive fire, and coordinate with teammates to dominate engagements. Mastering SAW techniques enhances teamwork, tactical maneuvering, and overall combat effectiveness, crucial for success. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share SOPs with participants for pre-training study.&lt;/p&gt;
+
+&lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
+
+&lt;p&gt;Set up the following stations near the main base with adequate spacing for transitioning between locations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Shooting Range.&lt;/li&gt;
+  &lt;li&gt;Sandbag covers with down-range targets.&lt;/li&gt;
+  &lt;li&gt;Sandbags for buddy bounding.&lt;/li&gt;
+  &lt;li&gt;Set up scenario: CQC and ambush.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;saw-training-1-saw-familiarization-and-handling&quot;&gt;SAW Training 1: SAW Familiarization and Handling&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
+
+&lt;p&gt;Familiarize participants with the SAW and its handling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Provide a detailed overview of the SAW’s components, safety procedures, and handling techniques.&lt;/p&gt;
+
+&lt;h3 id=&quot;saw-handling-procedures&quot;&gt;SAW Handling Procedures&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-safety-procedures&quot;&gt;1. Safety Procedures&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Clearing:&lt;/strong&gt; Always ensure the SAW is clear before handling.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trigger Discipline:&lt;/strong&gt; Keep finger off the trigger until ready to fire.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Muzzle Awareness:&lt;/strong&gt; Always point the muzzle in a safe direction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-operating-the-saw&quot;&gt;2. Operating the SAW&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Loading and Unloading:&lt;/strong&gt; Demonstrate proper loading and unloading procedures.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Clearing Jams:&lt;/strong&gt; Teach participants how to clear common jams quickly and safely (to be added via mod later).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keeping an eye on ammo:&lt;/strong&gt; Teach particpants to call out when alsmost “empty”, and “need cover, reloading”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-firing-techniques&quot;&gt;3. Firing Techniques&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Burst Fire:&lt;/strong&gt; Emphasize controlled bursts for accuracy and ammunition conservation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sustained Fire:&lt;/strong&gt; Teach participants how to maintain sustained fire while minimizing overheating.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Allow participants to practice handling the SAW under supervision at the shooting range.&lt;/p&gt;
+
+&lt;h3 id=&quot;saw-training-2-marksmanship-and-target-engagement&quot;&gt;SAW Training 2: Marksmanship and Target Engagement&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conduct exercises at the shooting range.&lt;/p&gt;
+
+&lt;h4 id=&quot;objective-20&quot;&gt;Objective 2.0&lt;/h4&gt;
+
+&lt;p&gt;Improve participants’ marksmanship and proficiency in engaging targets with the SAW.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-saw-marksmanship-fundamentals&quot;&gt;1. SAW Marksmanship Fundamentals&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sight Alignment and Picture:&lt;/strong&gt; Teach participants how to properly align sights and acquire targets.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Breath Control:&lt;/strong&gt; Emphasize the importance of steady breathing for accuracy and shooting in bursts.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trigger Control:&lt;/strong&gt; Instruct on smooth trigger pulls to maintain accuracy. Note how muzzle moves up when continuous holding of trigger.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Weak points:&lt;/strong&gt; Demonstrate shooting at weak points (on VICS = engine, tires, windows).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-engaging-single-and-multiple-targets&quot;&gt;2. Engaging Single and Multiple Targets&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Single Target Engagement:&lt;/strong&gt; Practice engaging stationary targets with controlled bursts.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Multiple Target Engagement:&lt;/strong&gt; Introduce techniques for transitioning between multiple targets efficiently, including moving VICs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Assess participants’ marksmanship skills and provide feedback for improvement.&lt;/p&gt;
+
+&lt;h3 id=&quot;saw-training-3-fire-and-maneuver-tactics&quot;&gt;SAW Training 3: Fire and Maneuver Tactics&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conduct exercises at the designated bunkers location.&lt;/p&gt;
+
+&lt;h4 id=&quot;objective-30&quot;&gt;Objective 3.0&lt;/h4&gt;
+
+&lt;p&gt;Teach participants fire and maneuver tactics utilizing the SAW within a squad context.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-suppressive-fire&quot;&gt;1. Suppressive Fire&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Role of the SAW:&lt;/strong&gt; Explain the SAW’s role in providing suppressive fire to support squad movement.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sector of Fire:&lt;/strong&gt; Instruct participants on establishing and maintaining effective sectors of fire.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-bound-and-cover-techniques&quot;&gt;2. Bound and Cover Techniques&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bounding Overwatch:&lt;/strong&gt; Teach participants how to alternate between bounding and providing covering fire – also known as “Talking Guns”.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Covering Fire:&lt;/strong&gt; Emphasize the importance of providing effective covering fire while squad members move.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conduct live fire exercises to practice fire and maneuver tactics, grading participants based on their performance.&lt;/p&gt;
+
+&lt;h3 id=&quot;saw-training-4-final-exam-tactical-scenario-simulations&quot;&gt;SAW Training 4 (Final Exam): Tactical Scenario Simulations&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-40&quot;&gt;Objective 4.0&lt;/h4&gt;
+
+&lt;p&gt;Evaluate participants’ ability to apply SAW training in realistic MILSIM scenarios.&lt;/p&gt;
+
+&lt;h4 id=&quot;scenario-based-exercises&quot;&gt;Scenario-based Exercises&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Urban Operations:&lt;/strong&gt; Simulate urban combat scenarios requiring effective use of the SAW in close quarters.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ambush Response:&lt;/strong&gt; Test participants’ ability to react to enemy ambushes while employing SAW tactics.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Defense and Counterattack:&lt;/strong&gt; Evaluate participants’ proficiency in defending positions and launching counterattacks using the SAW.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; This phase assesses participants’ ability to apply SAW tactics and techniques in dynamic MILSIM scenarios. Provide feedback and debrief after each exercise.
+#&lt;/p&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;S&lt;/span&gt; Squad and Automatic Weapon (SAW) training is pivotal for replicating the role of providing covering fire and controlling the battlefield. SAW training equips players with the skills to effectively deploy automatic weapons, maintain suppressive fire, and coordinate with teammates to dominate engagements. Mastering SAW techniques enhances teamwork, tactical maneuvering, and overall combat effectiveness, crucial for success. &lt;/p&gt;
+</description><pubDate>Sat, 11 Nov 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/SAW/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/SAW/</guid></item><item>
+        <title>MS</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;M&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;arksmanship training is fundamental for honing precision shooting skills and ensuring accuracy in firearm usage. It encompasses techniques such as proper aiming, breath control, and trigger discipline, essential for hitting targets consistently and effectively. Marksmanship proficiency not only improves individual shooting prowess but also enhances team capabilities, contributing to mission success in various operational contexts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share SOPs with participants for pre-training study.&lt;/p&gt;
+
+&lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
+
+&lt;p&gt;Set up the following stations near the main base with adequate spacing for transitioning between locations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Shooting Range.&lt;/li&gt;
+  &lt;li&gt;Observation Deck for Trainers.&lt;/li&gt;
+  &lt;li&gt;Target Area with Down-Range Targets (200M, 400M, 500M, 650M).&lt;/li&gt;
+  &lt;li&gt;Classroom Area for Instruction and Debriefing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;marksmanship-certification-training&quot;&gt;Marksmanship Certification Training&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
+
+&lt;p&gt;Ensure participants understand the fundamentals of marksmanship and are capable of accurately engaging targets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Provide a comprehensive overview of marksmanship principles and safety procedures.&lt;/p&gt;
+
+&lt;h3 id=&quot;marksmanship-fundamentals&quot;&gt;Marksmanship Fundamentals&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-sight-alignment-and-picture&quot;&gt;1. Sight Alignment and Picture&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teaching Method:&lt;/strong&gt; Demonstrate proper sight alignment and picture using training aids and examples.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Practice:&lt;/strong&gt; Allow participants to practice acquiring sight alignment and picture on stationary targets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-breathing-control&quot;&gt;2. Breathing Control&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Techniques:&lt;/strong&gt; Teach participants how to control their breathing to minimize movement while aiming.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Drills:&lt;/strong&gt; Conduct breathing control exercises, emphasizing steady aim during inhalation and exhalation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-trigger-control&quot;&gt;3. Trigger Control&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Explanation:&lt;/strong&gt; Explain the importance of smooth trigger control for maintaining accuracy.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hands-On Practice:&lt;/strong&gt; Allow participants to practice trigger control techniques on dry-fire exercises.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Assess participants’ understanding and proficiency in marksmanship fundamentals before proceeding.&lt;/p&gt;
+
+&lt;h4 id=&quot;marksmanship-certification-assessment&quot;&gt;Marksmanship Certification Assessment&lt;/h4&gt;
+
+&lt;h4 id=&quot;objective-20&quot;&gt;Objective 2.0&lt;/h4&gt;
+
+&lt;p&gt;Evaluate participants’ marksmanship skills through practical exercises and live-fire assessments.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-single-target-engagement&quot;&gt;1. Single Target Engagement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Distance:&lt;/strong&gt; Set up targets at varying distances (200M, 400M, 500M, 650M) within the effective range of the weapon.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Procedure:&lt;/strong&gt; Participants engage each target individually, focusing on accuracy and consistency.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Certification Criteria:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Expert: Hit 90% or more of the designated targets.&lt;/li&gt;
+      &lt;li&gt;Marksman: Hit 75% or more of the designated targets.&lt;/li&gt;
+      &lt;li&gt;Sharpshooter: Hit 60% or more of the designated targets.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Make sure to record the score and certification for each trainee at this time.&lt;/p&gt;
+
+&lt;h4 id=&quot;2-multiple-target-engagement&quot;&gt;2. Multiple Target Engagement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Scenario:&lt;/strong&gt; Introduce scenarios requiring participants to engage multiple targets within a time constraint.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Assessment:&lt;/strong&gt; Evaluate participants’ ability to prioritize targets and maintain accuracy under pressure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-moving-target-engagement&quot;&gt;3. Moving Target Engagement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Introduction:&lt;/strong&gt; Brief participants on techniques for engaging moving targets effectively.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Live-Fire Drills:&lt;/strong&gt; Conduct exercises with moving targets to assess participants’ tracking and lead estimation skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Evaluate participants’ performance during live-fire assessments, providing immediate feedback and coaching as needed.&lt;/p&gt;
+
+&lt;h3 id=&quot;marksmanship-certification-debrief&quot;&gt;Marksmanship Certification Debrief&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-30&quot;&gt;Objective 3.0&lt;/h4&gt;
+
+&lt;p&gt;Review participants’ performance, provide feedback, and address areas for improvement.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-performance-review&quot;&gt;1. Performance Review&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Individual Assessment:&lt;/strong&gt; Provide feedback to each participant based on their marksmanship assessment results.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Highlight Strengths:&lt;/strong&gt; Recognize areas where participants demonstrated proficiency and skill.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-areas-for-improvement&quot;&gt;2. Areas for Improvement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Identify Weaknesses:&lt;/strong&gt; Address specific areas where participants may need improvement or further practice.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recommendations:&lt;/strong&gt; Offer recommendations for additional training or drills to enhance marksmanship skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-certification&quot;&gt;3. Certification&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Criteria:&lt;/strong&gt; Review the criteria for marksmanship certification and inform participants of the requirements for successful certification.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Next Steps:&lt;/strong&gt; Provide guidance on next steps for participants to continue improving their marksmanship skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conclude the marksmanship certification training with a debrief session, allowing participants to ask questions and clarify any concerns.
+*&lt;/p&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;M&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;arksmanship training is fundamental for honing precision shooting skills and ensuring accuracy in firearm usage. It encompasses techniques such as proper aiming, breath control, and trigger discipline, essential for hitting targets consistently and effectively. Marksmanship proficiency not only improves individual shooting prowess but also enhances team capabilities, contributing to mission success in various operational contexts.&lt;/p&gt;
+</description><pubDate>Sat, 11 Nov 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/MS/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/MS/</guid></item><item>
+        <title>GL</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;G&lt;/span&gt;renade Launcher (GL) training is paramount for mastering the effective use of explosive ordnance in combat scenarios. It teaches players precision targeting, area denial tactics, and coordination with squadmates to maximize lethality while minimizing collateral damage. GL proficiency enhances team firepower, strategic versatility, and situational control, key elements for victory.  
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share SOPs with participants for pre-training study.&lt;/p&gt;
+
+&lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
+
+&lt;p&gt;Set up the following stations near the main base with adequate spacing for transitioning between locations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Training Area with Various Terrain Features.&lt;/li&gt;
+  &lt;li&gt;Observation Deck for Trainers.&lt;/li&gt;
+  &lt;li&gt;Weapons Cache with Grenade Launchers and Ammunition.&lt;/li&gt;
+  &lt;li&gt;Classroom Area for Instruction and Debriefing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
+
+&lt;p&gt;Ensure participants understand the fundamentals of grenade launcher operation and are capable of accurately employing grenades.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Provide a comprehensive overview of grenade launcher systems, safety procedures, and grenade types.&lt;/p&gt;
+
+&lt;h4 id=&quot;grenade-launcher-fundamentals&quot;&gt;Grenade Launcher Fundamentals&lt;/h4&gt;
+
+&lt;h4 id=&quot;1-weapon-familiarization&quot;&gt;1. Weapon Familiarization&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Types of Launchers:&lt;/strong&gt; Introduce participants to different grenade launcher models and their features.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Parts and Functions:&lt;/strong&gt; Explain the components of the grenade launcher and their roles in operation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-ammunition-types&quot;&gt;2. Ammunition Types&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;High-Explosive (HE) Grenades:&lt;/strong&gt; Discuss the purpose and usage of HE grenades for anti-personnel and light material targets.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Smoke Grenades:&lt;/strong&gt; Explain the utility of smoke grenades for obscuring visibility and providing cover.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Training Grenades:&lt;/strong&gt; Provide inert training grenades for hands-on practice and familiarization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conduct hands-on training sessions to familiarize participants with grenade launcher operation and ammunition types.&lt;/p&gt;
+
+&lt;h3 id=&quot;grenadier-assessment&quot;&gt;Grenadier Assessment&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-20&quot;&gt;Objective 2.0&lt;/h4&gt;
+
+&lt;p&gt;Evaluate participants’ proficiency in grenade launcher operation and grenade employment.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-accuracy-and-precision&quot;&gt;1. Accuracy and Precision&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Single Target Engagement:&lt;/strong&gt; Set up targets at varying distances to assess participants’ ability to accurately engage individual targets.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Multiple Target Engagement:&lt;/strong&gt; Introduce scenarios requiring participants to engage multiple targets with different types of grenades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-grenade-launcher-techniques&quot;&gt;2. Grenade Launcher Techniques&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Proper Aiming and Firing:&lt;/strong&gt; Assess participants’ ability to properly aim and fire grenades to achieve desired effects.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Safe Handling:&lt;/strong&gt; Evaluate participants’ adherence to safety procedures and protocols while handling and firing grenades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Grade participants based on their accuracy, precision, and adherence to safety protocols during live-fire assessments.&lt;/p&gt;
+
+&lt;h3 id=&quot;grenadier-debrief&quot;&gt;Grenadier Debrief&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-30&quot;&gt;Objective 3.0&lt;/h4&gt;
+
+&lt;p&gt;Review participants’ performance, provide feedback, and address areas for improvement.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-performance-review&quot;&gt;1. Performance Review&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Individual Assessment:&lt;/strong&gt; Provide feedback to each participant based on their grenade launcher assessment results.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Highlight Strengths:&lt;/strong&gt; Recognize areas where participants demonstrated proficiency and skill.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-areas-for-improvement&quot;&gt;2. Areas for Improvement&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Identify Weaknesses:&lt;/strong&gt; Address specific areas where participants may need improvement in grenade launcher operation and employment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recommendations:&lt;/strong&gt; Offer recommendations for additional training or drills to enhance participants’ skills as grenadiers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-certification&quot;&gt;3. Certification&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Criteria:&lt;/strong&gt; Review the criteria for grenadier MOS certification and inform participants of the requirements for successful certification.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Next Steps:&lt;/strong&gt; Provide guidance on next steps for participants to continue honing their skills as grenadiers within their unit.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conclude the grenadier MOS training with a debrief session, allowing participants to ask questions and clarify any concerns.&lt;/p&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;G&lt;/span&gt;renade Launcher (GL) training is paramount for mastering the effective use of explosive ordnance in combat scenarios. It teaches players precision targeting, area denial tactics, and coordination with squadmates to maximize lethality while minimizing collateral damage. GL proficiency enhances team firepower, strategic versatility, and situational control, key elements for victory.  
+&lt;/p&gt;
+</description><pubDate>Sat, 11 Nov 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/GL/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/GL/</guid></item><item>
+        <title>Rank and Duties</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;U&lt;/span&gt;nderstanding rank and duties is paramount in military operations, delineating hierarchical structure and responsibilities within a unit. Each rank carries specific duties and expectations, ranging from leadership and decision-making to executing orders and maintaining discipline. Clarifying these roles fosters efficient communication, coordination, and cohesion within the organization. By adhering to their designated duties, individuals contribute to the overall effectiveness of the team, ensuring smooth operation and mission accomplishment. Rank and duties thus form the backbone of military organizations, facilitating effective command, control, and execution of tasks essential for success in any mission or operation. &lt;/p&gt;
+
+&lt;h3 id=&quot;rank-and-duties&quot;&gt;Rank and Duties&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;High Command:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;General (O-10):&lt;/strong&gt; Shapes overall strategic vision, oversees global operations, and makes critical decisions impacting the entire forces.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lieutenant General (O-9):&lt;/strong&gt; Collaborates with the General, focusing on specific theaters or strategic elements, offering expertise and leadership.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Major General (O-8):&lt;/strong&gt; Manages operational facets such as logistics, intelligence, or personnel, ensuring seamless execution of broader strategies.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Brigadier General (O-7):&lt;/strong&gt; Coordinates forces within designated regions, concentrating on tactical deployment and engagement strategies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Company Command:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Colonel (O-6):&lt;/strong&gt; Commands a regiment, harmonizing multiple battalions, and liaises with other Colonels to synchronize efforts.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lieutenant Colonel (O-5):&lt;/strong&gt; Leads a battalion, ensuring cohesion and success, with a focus on adapting tactics to mission requirements.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Major (O-4):&lt;/strong&gt; Supports battalion command, specializing in areas like logistics, intelligence, or communication, enhancing operational efficiency.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Platoon Command:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Captain (O-3):&lt;/strong&gt; Commands a company, ensuring peak operational readiness, and adapting strategies to achieve mission success.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;First Lieutenant (O-2):&lt;/strong&gt; Assists the Captain in company command, specializing in a specific area such as intelligence, logistics, or communications.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Second Lieutenant (O-1):&lt;/strong&gt; Learns and executes company-level tasks, gaining practical experience in leadership and operations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Enlisted:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sergeant Major (E-9):&lt;/strong&gt; Senior enlisted advisor to High Command, providing crucial insights into enlisted matters and maintaining high morale.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Master Gunnery Sergeant (E-9):&lt;/strong&gt; Senior enlisted advisor at the company and battalion levels, focusing on enlisted leadership, training, and discipline.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sergeant Major (E-9):&lt;/strong&gt; Unit’s senior enlisted leader, responsible for discipline, morale, and overall welfare.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Master Sergeant (E-8):&lt;/strong&gt; Oversees critical aspects such as training or logistics, providing experienced leadership.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gunnery Sergeant (E-7):&lt;/strong&gt; Leads small units, focusing on effective leadership and comprehensive training.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Staff Sergeant (E-6):&lt;/strong&gt; Seasoned NCO leading squads or specialized teams, ensuring effective communication and execution.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sergeant (E-5):&lt;/strong&gt; Squad leader, responsible for the performance and well-being of their team, emphasizing unit cohesion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Enlisted (Continued):&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Corporal (E-4):&lt;/strong&gt; Experienced team leader, guiding small fire teams with tactical expertise.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lance Corporal (E-3):&lt;/strong&gt; Junior NCO or skilled enlisted member, contributing to unit success with specialized knowledge.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private First Class (E-2):&lt;/strong&gt; Developing skills and gaining experience, contributing to the team under leadership.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private (E-1):&lt;/strong&gt; Entry-level soldier, following commands and learning fundamental military skills.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recruit (RCT):&lt;/strong&gt; Newly enlisted, undergoing basic training and initial orientation to become an effective member of the forces.&lt;/li&gt;
+&lt;/ul&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;U&lt;/span&gt;nderstanding rank and duties is paramount in military operations, delineating hierarchical structure and responsibilities within a unit. Each rank carries specific duties and expectations, ranging from leadership and decision-making to executing orders and maintaining discipline. Clarifying these roles fosters efficient communication, coordination, and cohesion within the organization. By adhering to their designated duties, individuals contribute to the overall effectiveness of the team, ensuring smooth operation and mission accomplishment. Rank and duties thus form the backbone of military organizations, facilitating effective command, control, and execution of tasks essential for success in any mission or operation. &lt;/p&gt;
+</description><pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/RankDuties/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/RankDuties/</guid></item></channel>
 </rss>

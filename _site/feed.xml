@@ -5,8 +5,8 @@
     <description>Modern Milsim</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Apr 2024 11:21:18 -0400</pubDate>
-    <lastBuildDate>Fri, 05 Apr 2024 11:21:18 -0400</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2024 12:02:27 -0400</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:02:27 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator><item>
         <title>Importance of BCT</title>
         <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;B&lt;/span&gt;asic Combat Training (BCT) is the cornerstone of military simulation (Milsim) gameplay, replicating the initial training undergone by real military recruits. It covers essential skills such as weapon handling, squad maneuvers, communication, and first aid. BCT is crucial in Milsims as it ensures players understand fundamental military principles, fostering teamwork and immersion in virtual combat scenarios.&lt;/p&gt;
@@ -184,6 +184,14 @@
 </description><pubDate>Fri, 05 Apr 2024 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/blog/importance-of-bct/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/importance-of-bct/</guid></item><item>
+        <title>Featured Image</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;n the heart of a remote snow-covered landscape, soldiers undergo marksmanship certification training, honing their skills to peak efficiency. Against the backdrop of pristine white expanses, the crack of rifles breaks the silence, each shot a testament to discipline and precision. Amidst the chill of winter air, these dedicated individuals strive for excellence, preparing to defend their mission and comrades in the unforgiving theater of modern warfare. In this remote outpost, surrounded by nature&apos;s tranquility, marksmanship training remains a cornerstone of readiness and effectiveness for those on the frontlines of duty. 
+&lt;/p&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;n the heart of a remote snow-covered landscape, soldiers undergo marksmanship certification training, honing their skills to peak efficiency. Against the backdrop of pristine white expanses, the crack of rifles breaks the silence, each shot a testament to discipline and precision. Amidst the chill of winter air, these dedicated individuals strive for excellence, preparing to defend their mission and comrades in the unforgiving theater of modern warfare. In this remote outpost, surrounded by nature&apos;s tranquility, marksmanship training remains a cornerstone of readiness and effectiveness for those on the frontlines of duty. 
+&lt;/p&gt;
+</description><pubDate>Sun, 11 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/photo/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/photo/</guid></item><item>
         <title>Situational Awarness and Comms</title>
         <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.&lt;/p&gt;
 

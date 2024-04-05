@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Featured Image"
+date:   2024-02-11
+description: Recent marksmanship training conducted by Major Luna.  
+image: training_day.jpg
+---
+<p class="intro"><span class="dropcap">I</span>n the heart of a remote snow-covered landscape, soldiers undergo marksmanship certification training, honing their skills to peak efficiency. Against the backdrop of pristine white expanses, the crack of rifles breaks the silence, each shot a testament to discipline and precision. Amidst the chill of winter air, these dedicated individuals strive for excellence, preparing to defend their mission and comrades in the unforgiving theater of modern warfare. In this remote outpost, surrounded by nature's tranquility, marksmanship training remains a cornerstone of readiness and effectiveness for those on the frontlines of duty. 
+</p> 

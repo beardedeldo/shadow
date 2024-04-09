@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "BCT"
-date:   2024-01-01
+date:   2024-01-02
 description: Pass Basic Combat Training to learn about our units basic SOPs.  
 ---
-
-**Trainers:** Ensure comprehension before advancing. Share [Importance of BCT](https://beardedeldo.github.io/shadow/blog/example-post-formatting/) with recruits for pre-BCT study.
+**Trainers:** Ensure comprehension before advancing. Share [Importance of BCT](https://beardedeldo.github.io/shadow/blog/importance-of-bct/) with recruits for pre-BCT study.
 
 ### Game Master
 

@@ -5,8 +5,8 @@
     <description>Modern Milsim</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Apr 2024 12:12:34 -0400</pubDate>
-    <lastBuildDate>Fri, 05 Apr 2024 12:12:34 -0400</lastBuildDate>
+    <pubDate>Tue, 09 Apr 2024 08:37:39 -0400</pubDate>
+    <lastBuildDate>Tue, 09 Apr 2024 08:37:39 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator><item>
         <title>Importance of BCT</title>
         <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;B&lt;/span&gt;asic Combat Training (BCT) is the cornerstone of military simulation (Milsim) gameplay, replicating the initial training undergone by real military recruits. It covers essential skills such as weapon handling, squad maneuvers, communication, and first aid. BCT is crucial in Milsims as it ensures players understand fundamental military principles, fostering teamwork and immersion in virtual combat scenarios.&lt;/p&gt;
@@ -192,132 +192,8 @@
 </description><pubDate>Sun, 11 Feb 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/photo/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/photo/</guid></item><item>
-        <title>Situational Awarness and Comms</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share SOP with participants for pre-training study.&lt;/p&gt;
-
-&lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
-
-&lt;p&gt;Set up the following stations near the main base with adequate spacing for transitioning between locations.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Training Area with Various Terrain Features.&lt;/li&gt;
-  &lt;li&gt;Observation Deck for Trainers.&lt;/li&gt;
-  &lt;li&gt;Communication Equipment and Maps for Navigation.&lt;/li&gt;
-  &lt;li&gt;Classroom Area for Instruction and Debriefing.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;team-communication-and-direction-awareness-training&quot;&gt;Team Communication and Direction Awareness Training&lt;/h3&gt;
-
-&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
-
-&lt;p&gt;Teach participants effective team communication methods and direction awareness techniques to ensure cohesive movement and situational awareness.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Emphasize the importance of sticking together and understanding the location of each team member without having to look.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;communication-methods&quot;&gt;Communication Methods&lt;/h3&gt;
-
-&lt;h4 id=&quot;1-direction-callouts&quot;&gt;1. Direction Callouts&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Clock Method:&lt;/strong&gt; Use clock directions (e.g., 12 o’clock, 3 o’clock) to indicate the location of threats or team members.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Example Callouts:&lt;/strong&gt; “Alpha-1 covering our 9 o’clock,” “Bravo-2 moving to our 6 o’clock,” “Charlie-3 providing overwatch at our 12 o’clock.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;2-team-identification&quot;&gt;2. Team Identification&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Callsigns:&lt;/strong&gt; Assign unique callsigns to each team member for easy identification during communication.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; “Alpha-Team, this is Bravo-Team, over.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;3-confirmation-and-acknowledgment&quot;&gt;3. Confirmation and Acknowledgment&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Repeat Back:&lt;/strong&gt; Ensure messages are received and understood by having recipients repeat back important information.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Acknowledgment:&lt;/strong&gt; Require acknowledgment from team members to confirm receipt of orders or information.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;direction-awareness-techniques&quot;&gt;Direction Awareness Techniques&lt;/h3&gt;
-
-&lt;h4 id=&quot;1-emphasize-team-cohesion&quot;&gt;1. Emphasize Team Cohesion&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Visual Formation:&lt;/strong&gt; Instruct participants to visualize their team as a cohesive unit, similar to the ancient Greek phalanx formation, but with modern era formations (e.g., line, column, wedge, echelon right/left).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt; Assign specific directions for each team member to cover, ensuring 360-degree security.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;2-continuous-communication&quot;&gt;2. Continuous Communication&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Constant Updates:&lt;/strong&gt; Encourage continuous &lt;strong&gt;PROXY&lt;/strong&gt; communication between team members to maintain awareness of their positions and movements.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; “Bravo-Team, Alpha-Team is shifting left, our 9-o’clock, to cover our left flank.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;scenario-based-training&quot;&gt;Scenario-Based Training&lt;/h3&gt;
-
-&lt;h4 id=&quot;1-urban-patrol-scenario&quot;&gt;1. Urban Patrol Scenario&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Navigate through an urban environment while maintaining formation and communication.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Obstacles, potential threats, and changing terrain conditions.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Use direction callouts and maintain the called formation throughout the patrol.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;2-reconnaissance-mission&quot;&gt;2. Reconnaissance Mission&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Conduct reconnaissance of a designated area while avoiding detection.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Concealment, stealth movement, and potential enemy presence.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Coordinate movements silently and use directional callouts sparingly to avoid alerting nearby threats.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;3-ambush-response-drill&quot;&gt;3. Ambush Response Drill&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Respond to a simulated ambush situation while maintaining formation and communication.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Surprise attack, hostile fire, and disorientation.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; React quickly, establish a defensive perimeter, and use direction callouts to coordinate counterattacks.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;debrief-and-assessment&quot;&gt;Debrief and Assessment&lt;/h3&gt;
-
-&lt;h4 id=&quot;1-performance-review&quot;&gt;1. Performance Review&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Individual Assessment:&lt;/strong&gt; Evaluate each participant’s performance in communication and direction awareness during scenario-based training.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Feedback:&lt;/strong&gt; Provide constructive feedback on strengths and areas for improvement.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;2-team-cohesion&quot;&gt;2. Team Cohesion&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt; Assess the team’s ability to stick together, maintain formation, and effectively communicate throughout the training scenarios.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Highlight the importance of cohesion in achieving mission success and mitigating risks.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;3-certification&quot;&gt;3. Certification&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Criteria:&lt;/strong&gt; Review the criteria for team communication and direction awareness certification, emphasizing proficiency in using communication methods and maintaining formation.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Expert:&lt;/strong&gt; Demonstrates excellent communication skills and maintains cohesion under pressure.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Proficient:&lt;/strong&gt; Uses communication methods effectively but may require refinement in maintaining formation.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Basic:&lt;/strong&gt; Shows understanding of communication principles but needs improvement in applying them consistently during training scenarios.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conclude the training with a debrief session, allowing participants to discuss their experiences, ask questions, and reinforce key concepts.&lt;/p&gt;
-</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.&lt;/p&gt;
-</description><pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/SA-COMS/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/SA-COMS/</guid></item><item>
         <title>BCT</title>
-        <description>&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share &lt;a href=&quot;https://beardedeldo.github.io/shadow/blog/example-post-formatting/&quot;&gt;Importance of BCT&lt;/a&gt; with recruits for pre-BCT study.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share &lt;a href=&quot;https://beardedeldo.github.io/shadow/blog/importance-of-bct/&quot;&gt;Importance of BCT&lt;/a&gt; with recruits for pre-BCT study.&lt;/p&gt;
 
 &lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
 
@@ -551,10 +427,134 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; This phase integrates teamwork, movement, and tactical clearing. Emphasize effective communication and coordinated actions. Ensure recruits understand and can execute these concepts in simulated scenarios.&lt;/p&gt;
-</description><description>&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share &lt;a href=&quot;https://beardedeldo.github.io/shadow/blog/example-post-formatting/&quot;&gt;Importance of BCT&lt;/a&gt; with recruits for pre-BCT study.&lt;/p&gt;
-</description><pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+</description><description>&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share &lt;a href=&quot;https://beardedeldo.github.io/shadow/blog/importance-of-bct/&quot;&gt;Importance of BCT&lt;/a&gt; with recruits for pre-BCT study.&lt;/p&gt;
+</description><pubDate>Tue, 02 Jan 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/BCT/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/BCT/</guid></item><item>
+        <title>Situational Awarness and Comms</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Ensure comprehension before advancing. Share SOP with participants for pre-training study.&lt;/p&gt;
+
+&lt;h3 id=&quot;game-master&quot;&gt;Game Master&lt;/h3&gt;
+
+&lt;p&gt;Set up the following stations near the main base with adequate spacing for transitioning between locations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Training Area with Various Terrain Features.&lt;/li&gt;
+  &lt;li&gt;Observation Deck for Trainers.&lt;/li&gt;
+  &lt;li&gt;Communication Equipment and Maps for Navigation.&lt;/li&gt;
+  &lt;li&gt;Classroom Area for Instruction and Debriefing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;team-communication-and-direction-awareness-training&quot;&gt;Team Communication and Direction Awareness Training&lt;/h3&gt;
+
+&lt;h4 id=&quot;objective-10&quot;&gt;Objective 1.0&lt;/h4&gt;
+
+&lt;p&gt;Teach participants effective team communication methods and direction awareness techniques to ensure cohesive movement and situational awareness.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Emphasize the importance of sticking together and understanding the location of each team member without having to look.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;communication-methods&quot;&gt;Communication Methods&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-direction-callouts&quot;&gt;1. Direction Callouts&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Clock Method:&lt;/strong&gt; Use clock directions (e.g., 12 o’clock, 3 o’clock) to indicate the location of threats or team members.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Example Callouts:&lt;/strong&gt; “Alpha-1 covering our 9 o’clock,” “Bravo-2 moving to our 6 o’clock,” “Charlie-3 providing overwatch at our 12 o’clock.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-team-identification&quot;&gt;2. Team Identification&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Callsigns:&lt;/strong&gt; Assign unique callsigns to each team member for easy identification during communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; “Alpha-Team, this is Bravo-Team, over.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-confirmation-and-acknowledgment&quot;&gt;3. Confirmation and Acknowledgment&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Repeat Back:&lt;/strong&gt; Ensure messages are received and understood by having recipients repeat back important information.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Acknowledgment:&lt;/strong&gt; Require acknowledgment from team members to confirm receipt of orders or information.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;direction-awareness-techniques&quot;&gt;Direction Awareness Techniques&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-emphasize-team-cohesion&quot;&gt;1. Emphasize Team Cohesion&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visual Formation:&lt;/strong&gt; Instruct participants to visualize their team as a cohesive unit, similar to the ancient Greek phalanx formation, but with modern era formations (e.g., line, column, wedge, echelon right/left).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt; Assign specific directions for each team member to cover, ensuring 360-degree security.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-continuous-communication&quot;&gt;2. Continuous Communication&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Constant Updates:&lt;/strong&gt; Encourage continuous &lt;strong&gt;PROXY&lt;/strong&gt; communication between team members to maintain awareness of their positions and movements.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; “Bravo-Team, Alpha-Team is shifting left, our 9-o’clock, to cover our left flank.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;scenario-based-training&quot;&gt;Scenario-Based Training&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-urban-patrol-scenario&quot;&gt;1. Urban Patrol Scenario&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Navigate through an urban environment while maintaining formation and communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Obstacles, potential threats, and changing terrain conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Use direction callouts and maintain the called formation throughout the patrol.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-reconnaissance-mission&quot;&gt;2. Reconnaissance Mission&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Conduct reconnaissance of a designated area while avoiding detection.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Concealment, stealth movement, and potential enemy presence.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Coordinate movements silently and use directional callouts sparingly to avoid alerting nearby threats.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-ambush-response-drill&quot;&gt;3. Ambush Response Drill&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Respond to a simulated ambush situation while maintaining formation and communication.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Surprise attack, hostile fire, and disorientation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; React quickly, establish a defensive perimeter, and use direction callouts to coordinate counterattacks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;debrief-and-assessment&quot;&gt;Debrief and Assessment&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-performance-review&quot;&gt;1. Performance Review&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Individual Assessment:&lt;/strong&gt; Evaluate each participant’s performance in communication and direction awareness during scenario-based training.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Feedback:&lt;/strong&gt; Provide constructive feedback on strengths and areas for improvement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-team-cohesion&quot;&gt;2. Team Cohesion&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt; Assess the team’s ability to stick together, maintain formation, and effectively communicate throughout the training scenarios.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emphasis:&lt;/strong&gt; Highlight the importance of cohesion in achieving mission success and mitigating risks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-certification&quot;&gt;3. Certification&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Criteria:&lt;/strong&gt; Review the criteria for team communication and direction awareness certification, emphasizing proficiency in using communication methods and maintaining formation.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Expert:&lt;/strong&gt; Demonstrates excellent communication skills and maintains cohesion under pressure.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Proficient:&lt;/strong&gt; Uses communication methods effectively but may require refinement in maintaining formation.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Basic:&lt;/strong&gt; Shows understanding of communication principles but needs improvement in applying them consistently during training scenarios.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Trainers:&lt;/strong&gt; Conclude the training with a debrief session, allowing participants to discuss their experiences, ask questions, and reinforce key concepts.&lt;/p&gt;
+</description><description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;ituational awareness and minimal communications are essential in military simulation (Milsim) gameplay, teaching players to perceive threats and opportunities while communicating effectively under pressure. These skills enable teams to stay calm, adapt swiftly, and coordinate efficiently during combat scenarios, fostering unity and enhancing immersion while ensuring survivability and effectivness.&lt;/p&gt;
+</description><pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/SA-COMS/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/SA-COMS/</guid></item><item>
         <title>CQC</title>
         <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;lose Quarters Combat (CQC) training focuses on mastering techniques for engaging enemies at close range, emphasizing swift and decisive action in confined spaces. It covers skills like room clearing, weapon retention, and hand-to-hand combat, crucial for dominating in tight urban environments or enclosed structures. CQC proficiency enhances individual lethality and team coordination, ensuring readiness for intense combat encounters where split-second decisions can determine survival. &lt;/p&gt;
 

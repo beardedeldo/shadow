@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Importance of BCT"
-date:   2024-04-05
+date:   2024-07-02
 description: Understand the importance of Basic Combat Training (BCT) and learn crucial skills that will ensure an immersive gaming experience.  
 ---
 
@@ -26,7 +26,7 @@ Our BCT program at Shadow Division stands out from other Milsims by offering a u
   - *Red Comms:* Closed communication, silence below Captain.
 
 - **Radio Terminology**
-  - *Break:* Clear comms.
+  - *Net call* Clear comms.
   - *Over:* End transmission.
   - *Break:* Pause mid-transmission.
   - *Out:* Close transmission.

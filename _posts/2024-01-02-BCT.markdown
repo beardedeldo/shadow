@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BCT"
-date:   2024-01-02
+date:   2024-07-02
 description: Pass Basic Combat Training to learn about our units basic SOPs.  
 ---
 **Trainers:** Ensure comprehension before advancing. Share [Importance of BCT](https://beardedeldo.github.io/shadow/blog/importance-of-bct/) with recruits for pre-BCT study.
@@ -33,7 +33,7 @@ Understand and utilize proper communication.
 
 #### 2. Radio Terminology
 
-- **Break:** Clear comms.
+- **Net Call** Clear comms.
 - **Over:** End transmission.
 - **Break:** Pause mid-transmission.
 - **Out:** Close transmission.

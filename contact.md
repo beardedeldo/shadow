@@ -13,11 +13,11 @@ title: SOPs
 
 
 <div>
-   <ol> <a href="https://beardedeldo.github.io/shadow/blog/BCT/">Basic Combat Training</a> </ol> 
-   <ol> <a href="https://beardedeldo.github.io/shadow/blog/SA-COMS/">Situational Awarness</a> </ol> 
-   <ol> <a href="https://beardedeldo.github.io/shadow/blog/CQC/">Close Quarter Combat</a> </ol> 
-   <ol> <a href="https://beardedeldo.github.io/shadow/blog/SAW/">Squad Automatic Weapon</a> </ol> 
-   <ol> <a href="https://beardedeldo.github.io/shadow/blog/MS/">Marksmanship</a> </ol> 
-   <ol> <a href="https://beardedeldo.github.io/shadow/blog/GL/">Grenadier</a> </ol> 
+   <ol> <a href="https://beardedeldo.github.io/shadow_website/blog/BCT/">Basic Combat Training</a> </ol> 
+   <ol> <a href="https://beardedeldo.github.io/shadow_website/blog/SA-COMS/">Situational Awarness</a> </ol> 
+   <ol> <a href="https://beardedeldo.github.io/shadow_website/blog/CQC/">Close Quarter Combat</a> </ol> 
+   <ol> <a href="https://beardedeldo.github.io/shadow_website/blog/SAW/">Squad Automatic Weapon</a> </ol> 
+   <ol> <a href="https://beardedeldo.github.io/shadow_website/blog/MS/">Marksmanship</a> </ol> 
+   <ol> <a href="https://beardedeldo.github.io/shadow_website/blog/GL/">Grenadier</a> </ol> 
   <!-- <ol> <a href="LINK">Description</a> </ol> -->
 </div>
